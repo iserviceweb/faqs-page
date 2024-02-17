@@ -13,7 +13,7 @@ body {
   justify-content: center;
   align-items: center;
   min-height: 100vh;
-  background: black;
+  background: rgb(150, 157, 159);
 }
 
 .container {
@@ -34,7 +34,7 @@ body {
   background: #555;
   padding: 0 20px 20px;
   border-radius: 0.3rem;
-  box-shadow: 2px 2px 12px 0 rgb(122, 210, 64);
+  box-shadow: 2px 2px 12px 0 rgb(177, 58, 224);
   position: relative;
 }
 
