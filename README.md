@@ -12,7 +12,7 @@
 
 1. Add a **div** element with **class="container"**. This div will contain all the content of the page.
 
-2. Within the container, add an **image** corresponding to the product or service you chose. For example, in the demo above, I added the RadicalX logo.
+2. Within the container, add an **image** corresponding to the product or service you chose. For example, in the demo above, I added the iserviceweb logo.
 
 3. Add an **h1** element for the "Frequently Asked Questions" title.
 
