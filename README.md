@@ -2,8 +2,6 @@
 
 ## Instructions:
 
-## Objective: Build an app that is functionally similar to the demo below.
-
 ![](FAQs-page.gif)
 
 ## User Stories:
